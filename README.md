@@ -119,6 +119,6 @@ Pilihan 5: Keluar dari aplikasi dan mengucapkan terima kasih.
 Jika pengguna memilih pilihan yang tidak valid, program akan meminta mereka untuk memilih lagi.
 
 #### - hasil
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-6/blob/371a26cf5feffc7ff2c5fedcedd2e358e0cbf9e4/hasil%206.jpg)
 
 
