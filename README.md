@@ -10,7 +10,7 @@ NIM : 312410521
 ## praktikum 6
 
 ### - flowchart
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-6/blob/8d3b90e4e211933eedd10e27d57f77f02550cd32/praktikum%206.png)
 ### - code program
 #### 1. Daftar Mahasiswa (Dictionary)
 ```phython
